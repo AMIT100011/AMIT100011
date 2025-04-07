@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🎓 B.Tech Computer Science | 💻 Developer | ☁️ Cloud Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm AMIT KUMAR GIRI</h1>
+<h3 align="center">🎓 B.Tech Computer Science | 💻 Developer | Computer Science Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/YOUR_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /></a>
@@ -9,13 +9,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Java projects** and exploring **cloud computing**
-- 🌱 I’m currently learning **AWS | Data Structures | Backend Development**
-- 💬 Ask me about **Java, Python, Web Dev, or beginner projects**
-- 📫 Reach me at: `your.email@example.com`
+- 🔭 I’m currently pursuing Btech degree in SOA University**
+- 🌱 I’m currently learning Java | Data Structures and Algorithms | HTML | CSS | JS | SQL | Python | Full Stack
+- 📫 Reach me at: `amitkumargiri2005@gmail.com`
 - ⚡ Fun fact: I love debugging and learning how systems work behind the scenes!
 
 ---
+
+
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +35,6 @@
 
 - 🚀 [Portfolio Website](https://github.com/YOUR_USERNAME/portfolio) – A personal website built with HTML, CSS, and JS
 - 📱 [To-Do App](https://github.com/YOUR_USERNAME/todo-app) – Simple productivity app using JavaScript
-- ☁️ [AWS Deployment Test](https://github.com/YOUR_USERNAME/aws-demo) – First step into the cloud
 
 ---
 
@@ -51,8 +51,8 @@
 
 <p>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="http://www.linkedin.com/in/amit-kumar-giri-215aaa308"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/AMIT100011"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
