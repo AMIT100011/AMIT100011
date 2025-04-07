@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm AMIT KUMAR GIRI</h1>
 <h3 align="center">🎓 B.Tech Computer Science | 💻 Developer | Computer Science Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" /></a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
