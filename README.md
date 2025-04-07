@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently pursuing Btech degree in SOA University**
-- 🌱 I’m currently learning Java | Data Structures and Algorithms | HTML | CSS | JS | SQL | Python | Full Stack
+- 🚀 I believe in continuous learning, open-source contribution, and building in public.
 - 📫 Reach me at: `amitkumargiri2005@gmail.com`
 - ⚡ Fun fact: I love debugging and learning how systems work behind the scenes!
 
@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
 ---
