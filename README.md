@@ -33,6 +33,12 @@
 
 ---
 
+🏆 My LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Amit00001?theme=light&font=Baloo%20Bhai%202&ext=contest)](https://leetcode.com/Amit00001)
+
+--- 
+
 ## 📊 GitHub Stats
 
 
