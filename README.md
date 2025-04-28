@@ -35,11 +35,8 @@
 
 🏆 LeetCode Stats
 
-<p align="center">
-  <a href="https://leetcode.com/Amit00001/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Amit00001?theme=light&font=Baloo%20Bhai%202&ext=contest"/>
-  </a>
-</p>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Amit00001?theme=dark&font=Baloo%20Bhai%202&ext=contest)](https://leetcode.com/Amit00001)
+
 
 --- 
 
